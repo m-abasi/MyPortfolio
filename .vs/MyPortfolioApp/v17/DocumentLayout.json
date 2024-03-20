@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Atriya Course\\MyPortfolioApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00FCE0D5-8297-4C52-8D3F-C745A5E6F4D6}|MyPortfolio\\MyPortfolio.csproj|d:\\atriya course\\myportfolioapp\\myportfolio\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{00FCE0D5-8297-4C52-8D3F-C745A5E6F4D6}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00FCE0D5-8297-4C52-8D3F-C745A5E6F4D6}|MyPortfolio\\MyPortfolio.csproj|d:\\atriya course\\myportfolioapp\\myportfolio\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00FCE0D5-8297-4C52-8D3F-C745A5E6F4D6}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00FCE0D5-8297-4C52-8D3F-C745A5E6F4D6}|MyPortfolio\\MyPortfolio.csproj|d:\\atriya course\\myportfolioapp\\myportfolio\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{00FCE0D5-8297-4C52-8D3F-C745A5E6F4D6}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00FCE0D5-8297-4C52-8D3F-C745A5E6F4D6}|MyPortfolio\\MyPortfolio.csproj|d:\\atriya course\\myportfolioapp\\myportfolio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{00FCE0D5-8297-4C52-8D3F-C745A5E6F4D6}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00FCE0D5-8297-4C52-8D3F-C745A5E6F4D6}|MyPortfolio\\MyPortfolio.csproj|d:\\atriya course\\myportfolioapp\\myportfolio\\views\\home\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{00FCE0D5-8297-4C52-8D3F-C745A5E6F4D6}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\views\\home\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "D:\\Atriya Course\\MyPortfolioApp\\MyPortfolio\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolio\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "D:\\Atriya Course\\MyPortfolioApp\\MyPortfolio\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "MyPortfolio\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T22:59:14.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Shop.cshtml",
+              "DocumentMoniker": "D:\\Atriya Course\\MyPortfolioApp\\MyPortfolio\\Views\\Home\\Shop.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolio\\Views\\Home\\Shop.cshtml",
+              "ToolTip": "D:\\Atriya Course\\MyPortfolioApp\\MyPortfolio\\Views\\Home\\Shop.cshtml",
+              "RelativeToolTip": "MyPortfolio\\Views\\Home\\Shop.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-17T12:32:23.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Atriya Course\\MyPortfolioApp\\MyPortfolio\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolio\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Atriya Course\\MyPortfolioApp\\MyPortfolio\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MyPortfolio\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-17T11:48:47.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Atriya Course\\MyPortfolioApp\\MyPortfolio\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolio\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Atriya Course\\MyPortfolioApp\\MyPortfolio\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MyPortfolio\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-17T11:39:36.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Atriya Course\\MyPortfolioApp\\MyPortfolio\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MyPortfolio\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Atriya Course\\MyPortfolioApp\\MyPortfolio\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MyPortfolio\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T14:37:50.369Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
