@@ -13,19 +13,49 @@ namespace MyPortfolio.Controllers
     {
         private readonly ILogger<HomeController> _logger;
 
+        private readonly List<Portfolio> _portfolios = new List<Portfolio>
+        {
+            new Portfolio()
+            {
+                id = 1, title = "Liver", description = "اولین اپلیکیشن من", image = "01.jpg"
+            },
+            new Portfolio()
+            {
+                id = 2, title = "Kombat", description = "بازی خشن با درجه سنی بزرگسال", image = "02.jpg"
+            },
+            new Portfolio()
+            {
+                id = 3, title = "Puzzle", description = "بازی فکری برای کودکان", image = "03.jpg"
+            },
+            new Portfolio()
+            {
+                id = 4, title = "کافه نادری", description = "سفارش قهوه و کیک", image = "04.jpg"
+            },
+
+        };
+        
+        
+
         public HomeController(ILogger<HomeController> logger)
         {
             _logger = logger;
         }
-
+        
         public IActionResult Index()
         {
-            return View();
+            ViewData["HeadingText"] = "به اولین وبسایت مهدی عباسی خوش آمدید";
+            ViewBag.DescriptionText = "این وبسایت با استفاده از asp.net core 5 ساخته شده است. ";
+            
+            return View(_portfolios);
         }
 
         public IActionResult Contact()
         {
-            return View();
+            var contact = new Contact();
+            contact.PhoneNumber = "09360325019";
+            contact.Email = "mahdiabasi.315@gmail.com";
+            contact.Github = "github.com/oosmahdi80";
+            return View(contact);
         }
 
         public IActionResult Shop()

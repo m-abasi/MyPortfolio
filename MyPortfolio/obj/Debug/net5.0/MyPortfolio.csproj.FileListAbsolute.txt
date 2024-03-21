@@ -42,3 +42,4 @@ D:\Atriya Course\MyPortfolioApp\MyPortfolio\obj\Debug\net5.0\ref\MyPortfolio.dll
 D:\Atriya Course\MyPortfolioApp\MyPortfolio\obj\Debug\net5.0\MyPortfo.01A62FBD.Up2Date
 D:\Atriya Course\MyPortfolioApp\MyPortfolio\obj\Debug\net5.0\Razor\Views\Home\Shop.cshtml.g.cs
 D:\Atriya Course\MyPortfolioApp\MyPortfolio\obj\Debug\net5.0\Razor\Views\Home\Contact.cshtml.g.cs
+D:\Atriya Course\MyPortfolioApp\MyPortfolio\obj\Debug\net5.0\MyPortfolio.sourcelink.json

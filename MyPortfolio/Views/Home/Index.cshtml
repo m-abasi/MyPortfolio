@@ -1,21 +1,24 @@
-﻿@{
+﻿@model List<Portfolio>
+
+@{
     ViewData["Title"] = "صفحه اصلی";
     // ViewData["Keywords"] = "portfolio, shop, project";
 }
+
 @section SEO
 {
     <meta name="Keyword" content="main page , shop , index"/>
-    <meta name="Description" content="shop description" />
+    <meta name="Description" content="shop description"/>
 }
 
 <section id="one">
     <header class="major">
         <h2>
-            @ViewData["headingTitle"]
+            @ViewData["HeadingText"]
         </h2>
     </header>
     <p>
-        @ViewBag.headingText
+        @ViewBag.DescriptionText
     </p>
 </section>
 
@@ -23,16 +26,17 @@
     <h2>نمونه کارهای اخیر</h2>
     <div class="row">
 
-        @* @foreach (var portfolio in Model)
+        @foreach (var portfolio in Model)
         {
-            <article class="6u 12u$(xsmall) work-item" style="width: 33%;">
-                <a href="~/images/thumbs/@portfolio.Image" class="image fit thumb" alt="@portfolio.Title" title="@portfolio.Description">
-                    <img src="~/images/thumbs/@portfolio.Image" alt="@portfolio.Title" title="@portfolio.Description" />
+            <article class="6u 12u$(xsmall) work-item">
+                <a href="~/images/thumbs/@portfolio.image" class="image fit thumb" alt="@portfolio.title" title="@portfolio.description">
+                    <img src="~/images/thumbs/@portfolio.image" alt="@portfolio.title" title="@portfolio.description"/>
                 </a>
-                <h3>@portfolio.Title</h3>
-                <p>@portfolio.Description</p>
+                <h3>@portfolio.title</h3>
+                <p>@portfolio.description</p>
             </article>
-        } *@
+        }
+
 
     </div>
 </section>
